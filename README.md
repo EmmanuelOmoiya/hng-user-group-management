@@ -75,7 +75,7 @@ eve;developers
 ### Example Execution
 
 ```bash
-sudo ./create_users.sh users.txt
+sudo bash ./create_users.sh users.txt
 ```
 
 ## Error Handling
