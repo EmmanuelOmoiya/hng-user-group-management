@@ -1,3 +1,5 @@
+![User and Group Management in Linux](https://miro.medium.com/v2/resize:fit:1400/1*pI94lVONL4p54Lh3icTz6g.png)
+
 # User and Group Management Script
 
 ## Overview
